@@ -31,7 +31,6 @@ import datetime
 import json
 import os
 import numpy
-#from pathlib import Path
 from math import radians, degrees
 
 import bpy
